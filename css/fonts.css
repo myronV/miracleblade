@@ -1,0 +1,29 @@
+@font-face {
+    font-family: OpenSans;
+    src: url("../font/opensansregular.eot");
+    src: url("../font/opensansregular.eot-index.html")format("embedded-opentype"),
+    url("../font/opensansregular.woff")format("woff"),
+    url("../font/opensansregular.ttf")format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: BebasNeueRegular;
+    src: url("../font/bebasregular.eot");
+    src: url("../font/bebasregular.eot-index.html")format("embedded-opentype"),
+    url("../font/bebasregular.woff")format("woff"),
+    url("../font/bebasregular.ttf")format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: BebasNeueBold;
+    src: url("../font/bebasbold.eot");
+    src: url("../font/bebasbold.eot-index.html")format("embedded-opentype"),
+    url("../font/bebasbold.woff")format("woff"),
+    url("../font/bebasbold.ttf")format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
